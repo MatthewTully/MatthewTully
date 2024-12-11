@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello! 
 
-<!--
-**MatthewTully/MatthewTully** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matt, Started as a full stack engineer, moving towards my true love, the backend.
 
-Here are some ideas to get you started:
+- Mostly work with Python day to day.
+- Currently Learning Go
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Outside of software, I'm probaby:
+
+- At a gig
+- Watching Ice Hockey (Go (Nottingham) Panthers! 🏒🐱)
+- Playing games
